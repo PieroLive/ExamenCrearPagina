@@ -1,0 +1,11 @@
+body {
+    background: rgb(0, 128, 138);
+    background: linear-gradient(90deg, rgba(0, 128, 138, 1) 0%, rgba(0, 238, 255, 1) 50%, rgba(0, 128, 138, 1) 100%);
+}
+
+.landingPC {
+    background-color: white !important;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    margin-top: 2%;
+    border-radius: 10px;
+}
